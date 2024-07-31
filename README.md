@@ -1,8 +1,10 @@
 # testTaskOnRickAndMorty
 
- Программа отображает список персонажей из API "Rick and Morty" с возможностью сортировки, поиска и пагинации.
+Программа отображает список персонажей из API "Rick and Morty" с возможностью сортировки, поиска и пагинации.
 
- Для запуска можно  использовать  любые из двух IDE: VS Code, WebStorm. 
+Для запуска можно  использовать  любые из двух IDE: VS Code, WebStorm. 
+
+Вот ссылка на мой проект: [RickAndMorty](https://azheeva.github.io/testTaskOnRickAndMorty/)
 
 Для начала проверьте наличия node и npm.
 
