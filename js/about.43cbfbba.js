@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue3project"]=self["webpackChunkvue3project"]||[]).push([[594],{1198:function(e,t,u){u.r(t),u.d(t,{default:function(){return o}});var a=u(641);u(1260);const c={class:"about"};var n={__name:"AboutView",setup(e){return(e,t)=>((0,a.uX)(),(0,a.CE)("div",c))}},r=u(6262);const s=(0,r.A)(n,[["__scopeId","data-v-0ba1db71"]]);var o=s}}]);
+//# sourceMappingURL=about.43cbfbba.js.map
